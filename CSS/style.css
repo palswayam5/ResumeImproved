@@ -84,11 +84,11 @@ h1:hover
 
 img
 {
-    width: 200px;
+    width: 190px;
     height: auto;
     margin-left: 33rem;
     border: 2px solid black;
-    border-radius: 100px;
+    border-radius: 300px;
     position: relative;
     bottom: 80px;
 }
