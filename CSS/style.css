@@ -4,6 +4,10 @@
     background-color:#CFFFDC;
     border-bottom: 2px solid black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(/image/web_developer_wallpaper__white__by_plusjack_d7bmuby-fullview.jpg);
+    background-size: cover;
+    background-position: center;
+
    
 }
 
@@ -11,6 +15,7 @@
 {
     display: inline-block;
     padding:25px;
+    /* color: white; */
 
 }
 #header-navbar
@@ -92,6 +97,7 @@ img
     position: relative;
     bottom: 80px;
 }
+
 
 
 
