@@ -33,6 +33,7 @@ a:hover li
     text-align: center;
     margin-top:8%;
     transition-delay: 2s;
+    
 }
 h1
 {
@@ -52,7 +53,7 @@ h1:hover
     padding:0px 60px 0px;
     /* border-bottom: 2px solid black;
     border-radius: 50px; */
-    transition: border 0.5s;
+    transition: border 0.2s;
 }
 
 .main div:hover
